@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://arthur-morel.github.io/sitetrabalho/sitemap.xml
